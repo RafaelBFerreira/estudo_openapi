@@ -1,1 +1,1 @@
-# estudo_openapi
+# Estudos ChatGPT
